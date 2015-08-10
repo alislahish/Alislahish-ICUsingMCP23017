@@ -6,9 +6,15 @@ to Arduinos directly or via the MCP23017 I2C Port Expander.
 _Subclass the class ICUsingMCP23017 to represent and control your own ICs._
 
 #### Subclassing Usage Examples:
+##### PLL1705 3.3V Phase-Locked Loop Multiclock Generator:
+
 https://github.com/alislahish/Alislahish-PLL1705
 
+##### PCM1808 Single-Ended, Analog-Input 24-Bit, 96KHz Stereo A/D Converter:
 https://github.com/alislahish/Alislahish-PCM1808
+
+##### MAX9814 Microphone Amplifier with Automatic Gain Control:
+https://github.com/alislahish/Alislahish-MAX9814
 
 #### Dependencies:
 This library relies upon the Adafruit-MCP23017-Arduino-Library:
