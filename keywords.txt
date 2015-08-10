@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-ICUsingMCP23017 KEYWORD1
+ICUsingMCP23017		KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
